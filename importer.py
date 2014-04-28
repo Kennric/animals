@@ -48,7 +48,6 @@ db.commit()
 
 with open('animals.txt', 'r') as animals:
     for animal in animals:
-        break
         cursor = db.cursor()
         common, species = animal.split(';')
         common = " ".join(w.capitalize() for w in common.split())
