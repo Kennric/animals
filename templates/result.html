@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block title %}Results{{ short_id }}{% endblock %}
+{% block body %}
+<div class="frame">
+    <h1>You Are The...</h1>
+    <div class="image">
+        
+        <div class="hdiv">
+            <h2>{{ result.common_name }}</h2>
+            <h3><em>{{ result.species }}</em></h3>
+        </div>
+        <img src="{{ result.image_url }}" width="780px">
+        <div class="fdiv">
+            <h4>{{ result.caption }}</h4>
+        </div>
+    </div>
+</div>
+{% endblock %}

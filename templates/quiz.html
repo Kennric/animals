@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block title %}Animal Quiz{% endblock %}
+{% block body %}
+<div class=box>
+    <form action="" method=post>
+        <h3>Question 1:</h3>
+        <p> {{ question[0] }}
+        <input type=text name=url value="{{ answer }}" class=urlinput>
+        <input type=submit value="Next">
+    </form>
+</div>
+{% endblock %}

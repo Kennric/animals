@@ -1,0 +1,57 @@
+body        { background: #E8EFF0; margin: 0; padding: 0; }
+body, input { font-family: 'Helvetica Neue', Arial,
+              sans-serif; font-weight: 300; font-size: 18px; }
+.urlinput   { width: 300px; }
+.box        { width: 500px; margin: 60px auto; padding: 20px;
+              background: white; box-shadow: 0 1px 4px #BED1D4;
+              border-radius: 2px; }
+.frame       { width: 780px; 
+               margin: 60px auto; 
+               padding-right: 40px; 
+               padding-left: 40px;
+               padding-bottom: 10px;
+               padding-top: 10px;
+               background: white; 
+               box-shadow: 0 4px 6px #BED1D4;
+               border-radius: 3px;}
+.image      { position: relative; width: 100%; padding: 0px; margin: 0px;}
+a           { color: #11557C; }
+.hdiv       { width: 780px; 
+              top: 0px;
+              padding-left: 0px;
+              padding-right: 0px;
+              padding-top: 2px;
+              padding-bottom: 5px;
+              margin: 0px;}
+.fdiv       { width: 780px;
+              padding-left: 0px;
+              padding-right: 0px;
+              padding-top: 2px;
+              padding-bottom: 5px;
+              margin: 0px;}
+h1          { color: #000000; 
+              text-align:center; 
+              font-weight: bold; 
+              font-size: 40px;
+              margin: 3px;}
+h2           { text-align: center;
+              font-weight: bold; 
+              margin: 3px;
+              font-size: 35px;}
+h3          { text-align: center;
+              font-weight: normal;
+              margin: 3px;
+              font-style: italic;
+              font-size: 18px; }
+h4          { text-align: center;
+              font-weight: normal;
+              margin: 3px;
+              font-size: 28px; }
+img         { padding: 0px; margin-top: -3px; margin-bottom: -7px;}     
+.hdiv, .fdiv {
+   color: white;
+   letter-spacing: -1px;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+}
+

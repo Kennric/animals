@@ -1,0 +1,6 @@
+Jinja2
+MarkupSafe
+MySQL-python
+Werkzeug
+simplejson
+wsgiref
