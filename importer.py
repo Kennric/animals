@@ -72,6 +72,10 @@ with open('animals.txt', 'r') as animals:
         image_json = response.read()
 
         image_data = json.loads(image_json)
+
+        if image_data is None:
+            pass
+
         image_url = image_data['responseData']['results'][0]['url']
 
         sql = "INSERT INTO animals (species,common_name,image_url) \
