@@ -30,12 +30,12 @@ cursor.execute("CREATE TABLE IF NOT EXISTS animals ( \
 # questions
 cursor.execute("CREATE TABLE IF NOT EXISTS questions ( \
                 id INT(10) PRIMARY KEY AUTO_INCREMENT, \
-                question VARCHAR(512) UNIQUE)")
+                question VARCHAR(255) UNIQUE)")
 
 # captions
 cursor.execute("CREATE TABLE IF NOT EXISTS captions ( \
                 id INT(10) PRIMARY KEY AUTO_INCREMENT, \
-                caption VARCHAR(512) UNIQUE)")
+                caption VARCHAR(255) UNIQUE)")
 
 # results
 cursor.execute("CREATE TABLE IF NOT EXISTS results ( \
