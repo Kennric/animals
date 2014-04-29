@@ -29,7 +29,12 @@ class Animals(object):
             passwd=os.environ['ANIMALS_DB_PASS'], 
             host=os.environ['ANIMALS_DB_HOST'], 
             db=os.environ['ANIMALS_DB_NAME'])
-        
+       
+        self.db_user = os.environ['ANIMALS_DB_USER']
+        self.db_pass = os.environ['ANIMALS_DB_PASS']
+        self.db_host = os.environ['ANIMALS_DB_HOST']
+        self.db_name = os.environ['ANIMALS_DB_NAME']
+
         self.db.autocommit(True)
 
         template_path = os.path.join(os.path.dirname(__file__), 'templates')
@@ -67,6 +72,7 @@ class Animals(object):
         
     def insert_result(self, animal_id, caption_id):
 
+        db = MySQLdb.connect(user=self.db_user, host=self.db_host, name=self.db_name, passwd=self.db_pass)
         cursor = self.db.cursor() 
         sql = "INSERT INTO results (animal_id, caption_id) \
                VALUES (%s, %s)"
@@ -74,11 +80,13 @@ class Animals(object):
         cursor.execute(sql, (animal_id, caption_id))
         result_id = cursor.lastrowid
         cursor.close()
+        db.close()
         return result_id
 
 
     def on_take_quiz(self, request):
-        cursor = self.db.cursor()
+        db = MySQLdb.connect(user=self.db_user, host=self.db_host, name=self.db_name, passwd=self.db_pass)
+        cursor = db.cursor()
 
         if request.method == 'POST':
 
@@ -102,13 +110,15 @@ class Animals(object):
         cursor.execute(question_sql)
         question = cursor.fetchone()
         cursor.close()
+        db.close()
 
         return self.render_template('quiz.html', question=question)
 
 
     def on_get_results(self, request, result_id):
+        db = MySQLdb.connect(user=self.db_user, host=self.db_host, name=self.db_name, passwd=self.db_pass)
 
-        cursor = self.db.cursor()
+        cursor = db.cursor()
         # look up the result, fetch the animal and caption
         result_sql = "SELECT animals.*, captions.caption, results.* \
                       FROM results \
@@ -121,6 +131,7 @@ class Animals(object):
 
         result = FetchOneAssoc(cursor)
         cursor.close()
+        db.close()
 
         if result is None:
             return NotFound(description=None, response=None)
