@@ -98,8 +98,9 @@ class Animals(object):
             
             parse_form_data(request.environ)
 
-            return redirect('/%s' % result_id)
-
+            # return redirect('/%s' % result_id)
+            return self.render_template('procesing.html', id=result_id)
+            
         # not post, so select a random question to ask
 
         question_sql = "SELECT question FROM `questions` ORDER BY RAND() LIMIT 0,1;"
