@@ -73,10 +73,10 @@ with open('animals.txt', 'r') as animals:
 
         image_data = json.loads(image_json)
 
-        if image_data is None:
-            pass
-
-        image_url = image_data['responseData']['results'][0]['url']
+        try:
+          image_url = image_data['responseData']['results'][0]['url']
+        except:
+          continue
 
         sql = "INSERT INTO animals (species,common_name,image_url) \
                VALUES (\"%s\",\"%s\",\"%s\") \
