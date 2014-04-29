@@ -46,54 +46,6 @@ cursor.execute("CREATE TABLE IF NOT EXISTS results ( \
 cursor.close()
 db.commit()
 
-with open('animals.txt', 'r') as animals:
-    for animal in animals:
-        cursor = db.cursor()
-        common, species = animal.split(';')
-        common = " ".join(w.capitalize() for w in common.split())
-        common_parts = common.split(',')
-
-        try:
-            common_name = "%s %s" % (common_parts[1].strip(), common_parts[0].strip())
-        except IndexError:
-            common_name = common_parts[0]
-
-        google_url = "https://ajax.googleapis.com/ajax/services/search/images"
-        values = {'v': '1.0', 'q': species}
-        data = urllib.urlencode(values)
-
-        req = urllib2.Request(google_url + '?' + data)
-        try:
-            response = urllib2.urlopen(req)
-        except HTTPError, e:
-            print "google response error"
-            print e.reason
-
-        image_json = response.read()
-
-        image_data = json.loads(image_json)
-
-        try:
-          image_url = image_data['responseData']['results'][0]['url']
-        except:
-          continue
-
-        sql = "INSERT INTO animals (species,common_name,image_url) \
-               VALUES (\"%s\",\"%s\",\"%s\") \
-               ON DUPLICATE KEY UPDATE \
-               image_url = \"%s\";" % (species,common_name,image_url,image_url)
-
-        print "saving %s, %s to the database" % (common_name,image_url)
-        #print sql
-
-        cursor.execute(sql)
-        cursor.close()
-        db.commit()
-        secs = random.randint(1, 15)
-        print "pausing for %s seconds" % secs
-        time.sleep(secs)
-
-
 # import question list
 # store each line in questions table
 with open('questions.txt', 'r') as questions:
@@ -128,5 +80,60 @@ with open('captions.txt', 'r') as captions:
 
     cursor.close()
     db.commit()
+
+
+with open('animals.txt', 'r') as animals:
+    for animal in animals:
+        cursor = db.cursor()
+        common, species = animal.split(';')
+        common = " ".join(w.capitalize() for w in common.split())
+        common_parts = common.split(',')
+
+        try:
+            common_name = "%s %s" % (common_parts[1].strip(), common_parts[0].strip())
+        except IndexError:
+            common_name = common_parts[0]
+
+        google_url = "https://ajax.googleapis.com/ajax/services/search/images"
+        values = {'v': '1.0', 'q': species}
+        data = urllib.urlencode(values)
+
+        req = urllib2.Request(google_url + '?' + data)
+        try:
+            response = urllib2.urlopen(req)
+        except HTTPError, e:
+            print "google response error"
+            print e.reason
+
+        if response.info()['Content-Type'] != 'image/jpeg':
+            print "not an image!"
+            continue
+
+        image_json = response.read()
+
+        image_data = json.loads(image_json)
+
+        try:
+            image_url = image_data['responseData']['results'][0]['url']
+        except:
+            print "no image data!"
+            continue
+
+        sql = "INSERT INTO animals (species,common_name,image_url) \
+               VALUES (\"%s\",\"%s\",\"%s\") \
+               ON DUPLICATE KEY UPDATE \
+               image_url = \"%s\";" % (species,common_name,image_url,image_url)
+
+        print "saving %s, %s to the database" % (common_name,image_url)
+        #print sql
+
+        cursor.execute(sql)
+        cursor.close()
+        db.commit()
+        secs = random.randint(1, 15)
+        print "pausing for %s seconds" % secs
+        time.sleep(secs)
+
+
 
 db.close() 
