@@ -95,7 +95,9 @@ class Animals(object):
             cursor.close()
 
             result_id = self.insert_result(animal_id, caption_id)
-        
+            
+            parse_form_data(request.environ)
+
             return redirect('/%s' % result_id)
 
         # not post, so select a random question to ask
