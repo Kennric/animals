@@ -5,6 +5,7 @@ from werkzeug.routing import Map, Rule
 from werkzeug.exceptions import HTTPException, NotFound
 from werkzeug.wsgi import SharedDataMiddleware
 from werkzeug.utils import redirect
+from werkzeug.formparser import parse_form_data
 from jinja2 import Environment, FileSystemLoader
 import MySQLdb
 
@@ -25,17 +26,12 @@ def FetchOneAssoc(cursor):
 class Animals(object):
 
     def __init__(self):
-        self.db = MySQLdb.connect(user=os.environ['ANIMALS_DB_USER'],
-            passwd=os.environ['ANIMALS_DB_PASS'], 
-            host=os.environ['ANIMALS_DB_HOST'], 
-            db=os.environ['ANIMALS_DB_NAME'])
        
         self.db_user = os.environ['ANIMALS_DB_USER']
         self.db_pass = os.environ['ANIMALS_DB_PASS']
         self.db_host = os.environ['ANIMALS_DB_HOST']
         self.db_name = os.environ['ANIMALS_DB_NAME']
 
-        self.db.autocommit(True)
 
         template_path = os.path.join(os.path.dirname(__file__), 'templates')
         self.jinja_env = Environment(loader=FileSystemLoader(template_path),
@@ -71,12 +67,10 @@ class Animals(object):
 
         
     def insert_result(self, animal_id, caption_id):
-
-        db = MySQLdb.connect(user=self.db_user, host=self.db_host, name=self.db_name, passwd=self.db_pass)
-        cursor = self.db.cursor() 
-        sql = "INSERT INTO results (animal_id, caption_id) \
-               VALUES (%s, %s)"
-
+        db = MySQLdb.connect(user=self.db_user, host=self.db_host, db=self.db_name, passwd=self.db_pass)
+        db.autocommit(True)
+        cursor = db.cursor() 
+        sql = "INSERT INTO results (animal_id, caption_id) VALUES (%s, %s)"
         cursor.execute(sql, (animal_id, caption_id))
         result_id = cursor.lastrowid
         cursor.close()
@@ -85,23 +79,23 @@ class Animals(object):
 
 
     def on_take_quiz(self, request):
-        db = MySQLdb.connect(user=self.db_user, host=self.db_host, name=self.db_name, passwd=self.db_pass)
+        db = MySQLdb.connect(user=self.db_user, host=self.db_host, db=self.db_name, passwd=self.db_pass)
+        db.autocommit(True)
         cursor = db.cursor()
 
         if request.method == 'POST':
 
-            animal_sql = "SELECT id FROM `animals` ORDER BY RAND() LIMIT 0,1;"
-            caption_sql = "SELECT id FROM `captions` ORDER BY RAND() LIMIT 0,1;"
+            animal_sql = "SELECT id FROM animals ORDER BY RAND() LIMIT 0,1;"
+            caption_sql = "SELECT id FROM captions ORDER BY RAND() LIMIT 0,1;"
 
             cursor.execute(animal_sql)
             animal_id = cursor.fetchone()
-
             cursor.execute(caption_sql)
             caption_id = cursor.fetchone()
             cursor.close()
 
             result_id = self.insert_result(animal_id, caption_id)
-
+        
             return redirect('/%s' % result_id)
 
         # not post, so select a random question to ask
@@ -116,7 +110,8 @@ class Animals(object):
 
 
     def on_get_results(self, request, result_id):
-        db = MySQLdb.connect(user=self.db_user, host=self.db_host, name=self.db_name, passwd=self.db_pass)
+        db = MySQLdb.connect(user=self.db_user, host=self.db_host, db=self.db_name, passwd=self.db_pass)
+        db.autocommit(True)
 
         cursor = db.cursor()
         # look up the result, fetch the animal and caption
@@ -126,10 +121,10 @@ class Animals(object):
                       JOIN animals ON results.animal_id = animals.id \
                       WHERE results.id = %s"
 
-
         cursor.execute(result_sql, (result_id,))
 
         result = FetchOneAssoc(cursor)
+
         cursor.close()
         db.close()
 
