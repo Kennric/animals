@@ -1,9 +1,9 @@
 {% extends "layout.html" %}
 {% block title %}Animal Quiz{% endblock %}
 {% block body %}
-<script language="javascript>"
+<script language="javascript">
     newurl = "/{{ id }}" 
-    window.setTimeout(window.location.replace(newurl),5000);
+    setTimeout(function(){window.location.replace(newurl)},5000);
     var opts = {
       lines: 13, // The number of lines to draw
       length: 20, // The length of each line
@@ -24,11 +24,12 @@
     };
     var target = document.getElementById('foo');
     var spinner = new Spinner(opts).spin(target);
+    target.appendChild(spinner.el);
+
 
 </script>
-<div class="box">
+<div class="box" id='foo'>
     <h1>PROCESSING</h1>
-    <div id="foo"></div>
 
 </div>
 {% endblock %}
