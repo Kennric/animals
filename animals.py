@@ -29,6 +29,8 @@ class Animals(object):
             passwd=os.environ['ANIMALS_DB_PASS'], 
             host=os.environ['ANIMALS_DB_HOST'], 
             db=os.environ['ANIMALS_DB_NAME'])
+        
+        self.db.autocommit(True)
 
         template_path = os.path.join(os.path.dirname(__file__), 'templates')
         self.jinja_env = Environment(loader=FileSystemLoader(template_path),
@@ -71,7 +73,6 @@ class Animals(object):
 
         cursor.execute(sql, (animal_id, caption_id))
         result_id = cursor.lastrowid
-        self.db.commit()
         cursor.close()
         return result_id
 
