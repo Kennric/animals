@@ -105,18 +105,23 @@ with open('animals.txt', 'r') as animals:
             print "google response error"
             print e.reason
 
-        if response.info()['Content-Type'] != 'image/jpeg':
-            print "not an image!"
-            continue
-
         image_json = response.read()
-
         image_data = json.loads(image_json)
 
         try:
             image_url = image_data['responseData']['results'][0]['url']
         except:
             print "no image data!"
+            continue
+
+        try:
+            image = urllib2.urlopen(image_url)
+        except HTTPError, e:
+            print "can't contact image url"
+            print e.reason
+
+        if image.info()['Content-Type'] != 'image/jpeg':
+            print "not an image! " + response.info()['Content-Type']
             continue
 
         sql = "INSERT INTO animals (species,common_name,image_url) \
