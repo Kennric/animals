@@ -101,9 +101,8 @@ with open('animalsD.txt', 'r') as animals:
         req = urllib2.Request(google_url + '?' + data)
         try:
             response = urllib2.urlopen(req)
-        except HTTPError, e:
+        except:
             print "google response error"
-            print e.reason
 
         image_json = response.read()
         image_data = json.loads(image_json)
