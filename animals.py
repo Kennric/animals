@@ -99,7 +99,7 @@ class Animals(object):
             parse_form_data(request.environ)
 
             # return redirect('/%s' % result_id)
-            return self.render_template('procesing.html', id=result_id)
+            return self.render_template('processing.html', id=result_id)
             
         # not post, so select a random question to ask
 
