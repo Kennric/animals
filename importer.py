@@ -118,6 +118,7 @@ with open('animals.txt', 'r') as animals:
             image = urllib2.urlopen(image_url)
         except:
             print "can't contact image url"
+            continue
 
         if image.info()['Content-Type'] != 'image/jpeg':
             print "not an image! " + response.info()['Content-Type']
