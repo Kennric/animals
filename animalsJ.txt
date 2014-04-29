@@ -1,0 +1,16 @@
+Jabiru stork;Ephippiorhynchus mycteria
+Jacana, african;Actophilornis africanus
+Jackal, asiatic;Canis aureus
+Jackal, black-backed;Canis mesomelas
+Jackal, golden;Canis aureus
+Jackal, indian;Canis aureus
+Jackal, silver-backed;Canis mesomelas
+Jackrabbit, white-tailed;Lepus townsendii
+Jaeger, long-tailed;Stercorarius longicausus
+Jaguar;Panthera onca
+Jaguarundi;Felis yagouaroundi
+Japanese macaque;Macaca fuscata
+Javan gold-spotted mongoose;Herpestes javanicus
+Javanese cormorant;Phalacrocorax niger
+Jungle cat;Felis chaus
+Jungle kangaroo;Macropus agilis

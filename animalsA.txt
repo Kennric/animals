@@ -1,0 +1,76 @@
+Aardwolf;Proteles cristatus
+Admiral, indian red;Vanessa indica
+African black crake;Limnocorax flavirostra
+African buffalo;Snycerus caffer
+African bush squirrel;Paraxerus cepapi
+African clawless otter;Aonyx capensis
+African darter;Anhinga rufa
+African elephant;Loxodonta africana
+African fish eagle;Haliaetus vocifer
+African jacana;Actophilornis africanus
+African lion;Panthera leo
+African lynx;Felis caracal
+African pied wagtail;Motacilla aguimp
+African polecat;Ictonyx striatus
+African porcupine;Hystrix cristata
+African red-eyed bulbul;Pycnonotus nigricans
+African skink;Mabuya spilogaster
+African wild cat;Felis silvestris lybica
+African wild dog;Lycaon pictus
+Agile wallaby;Macropus agilis
+Agouti;Dasyprocta leporina
+Albatross, galapagos;Diomedea irrorata
+Albatross, waved;Diomedea irrorata
+Alligator, american;Alligator mississippiensis
+Alligator, mississippi;Alligator mississippiensis
+Alpaca;Lama pacos
+American Virginia opossum;Didelphis virginiana
+American alligator;Alligator mississippiensis
+American badger;Taxidea taxus
+American beaver;Castor canadensis
+American bighorn sheep;Ovis canadensis
+American bison;Bison bison
+American black bear;Ursus americanus
+American buffalo;Bison bison
+American crow;Corvus brachyrhynchos
+American marten;Martes americana
+American racer;Coluber constrictor
+American woodcock;Scolopax minor
+Andean goose;Chloephaga melanoptera
+Anteater, australian spiny;Tachyglossus aculeatus
+Anteater, giant;Myrmecophaga tridactyla
+Antechinus, brown;Antechinus flavipes
+Antelope ground squirrel;Ammospermophilus nelsoni
+Antelope, four-horned;Tetracerus quadricornis
+Antelope, roan;Hippotragus equinus
+Antelope, sable;Hippotragus niger
+Arboral spiny rat;Echimys chrysurus
+Arctic fox;Alopex lagopus
+Arctic ground squirrel;Spermophilus parryii
+Arctic hare;Lepus arcticus
+Arctic lemming;Dicrostonyx groenlandicus
+Arctic tern;Sterna paradisaea
+Argalis;Ovis ammon
+Armadillo, common long-nosed;Dasypus novemcinctus
+Armadillo, giant;Priodontes maximus
+Armadillo, nine-banded;Dasypus novemcinctus
+Armadillo, seven-banded;Dasypus septemcincus
+Asian elephant;Elephas maximus bengalensis
+Asian false vampire bat;Megaderma spasma
+Asian foreset tortoise;Manouria emys
+Asian lion;Panthera leo persica
+Asian openbill;Anastomus oscitans
+Asian red fox;Vulpes vulpes
+Asian water buffalo;Bubalus arnee
+Asian water dragon;Physignathus cocincinus
+Asiatic jackal;Canis aureus
+Asiatic wild ass;Equus hemionus
+Ass, asiatic wild;Equus hemionus
+Australian brush turkey;Alectura lathami
+Australian magpie;Gymnorhina tibicen
+Australian masked owl;Tyto novaehollandiae
+Australian pelican;Pelecanus conspicillatus
+Australian sea lion;Neophoca cinerea
+Australian spiny anteater;Tachyglossus aculeatus
+Avocet, pied;Recurvirostra avosetta
+Azara's zorro;Pseudalopex gymnocercus

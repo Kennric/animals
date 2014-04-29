@@ -1,0 +1,71 @@
+Land iguana;Conolophus subcristatus
+Langur, common;Semnopithecus entellus
+Langur, gray;Semnopithecus entellus
+Langur, hanuman;Semnopithecus entellus
+Lappet-faced vulture;Aegypius tracheliotus
+Lapwing, southern;Vanellus chilensis
+Large cormorant;Phalacrocorax carbo
+Large-eared bushbaby;Galago crassicaudataus
+Lark, horned;Eremophila alpestris
+Laughing dove;Streptopelia senegalensis
+Laughing kookaburra;Dacelo novaeguineae
+Lava gull;Larus fuliginosus
+Leadbeateri's ground hornbill;Bucorvus leadbeateri
+Least chipmunk;Eutamias minimus
+Lechwe, kafue flats;Kobus leche robertsi
+Legaan, ground;Varanus sp.
+Legaan, water;Varanus salvator
+Lemming, arctic;Dicrostonyx groenlandicus
+Lemming, collared;Dicrostonyx groenlandicus
+Lemur, brown;Lemur fulvus
+Lemur, grey mouse;Microcebus murinus
+Lemur, lesser mouse;Microcebus murinus
+Lemur, ring-tailed;Lemur catta
+Lemur, sportive;Lepilemur rufescens
+Leopard;Panthera pardus
+Leopard, indian;Panthera pardus
+Lesser double-collared sunbird;Nectarinia chalybea
+Lesser flamingo;Phoeniconaias minor
+Lesser masked weaver;Ploceus intermedius
+Lesser mouse lemur;Microcebus murinus
+Levaillant's barbet;Trachyphonus vaillantii
+Lilac-breasted roller;Coracias caudata
+Lily trotter;Actophilornis africanus
+Lion, african;Panthera leo
+Lion, asian;Panthera leo persica
+Lion, australian sea;Neophoca cinerea
+Lion, california sea;Zalophus californicus
+Lion, galapagos sea;Zalophus californicus
+Lion, mountain;Felis concolor
+Lion, south american sea;Otaria flavescens
+Lion, southern sea;Otaria flavescens
+Lion, steller sea;Eumetopias jubatus
+Lion, steller's sea;Eumetopias jubatus
+Little blue penguin;Eudyptula minor
+Little brown bat;Myotis lucifugus
+Little brown dove;Streptopelia senegalensis
+Little cormorant;Phalacrocorax niger
+Little grebe;Tachybaptus ruficollis
+Little heron;Butorides striatus
+Lizard, blue-tongued;Tiliqua scincoides
+Lizard, collared;Crotaphytus collaris
+Lizard, desert spiny;Sceloporus magister
+Lizard, frilled;Chlamydosaurus kingii
+Lizard, giant girdled;Cordylus giganteus
+Lizard, goanna;Varanus sp.
+Lizard, mexican beaded;Heloderma horridum
+Llama;Lama glama
+Long-billed cockatoo;Cacatua tenuirostris
+Long-billed corella;Cacatua tenuirostris
+Long-crested hawk eagle;Lophoaetus occipitalis
+Long-finned pilot whale;Globicephala melas
+Long-necked turtle;Chelodina longicollis
+Long-nosed bandicoot;Perameles nasuta
+Long-tailed jaeger;Stercorarius longicausus
+Long-tailed skua;Stercorarius longicausus
+Long-tailed spotted cat;Felis wiedi or Leopardus weidi
+Lorikeet, scaly-breasted;Trichoglossus chlorolepidotus
+Loris, slender;Loris tardigratus
+Lory, rainbow;Trichoglossus haematodus moluccanus
+Lourie, grey;Lorythaixoides concolor
+Lynx, african;Felis caracal

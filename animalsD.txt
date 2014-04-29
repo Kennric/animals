@@ -1,0 +1,56 @@
+Dabchick;Tachybaptus ruficollis
+Dama wallaby;Macropus eugenii
+Dark-winged trumpeter;Psophia viridis
+Darter, african;Anhinga rufa
+Dassie;Dendrohyrax brucel
+Deer, barasingha;Cervus duvauceli
+Deer, black-tailed;Odocoileus hemionus
+Deer, mule;Odocoileus hemionus
+Deer, red;Cervus elaphus
+Deer, roe;Capreolus capreolus
+Deer, savannah;Mazama gouazoubira
+Deer, spotted;Axis axis
+Deer, swamp;Cervus duvauceli
+Deer, white-tailed;Odocoilenaus virginianus
+Defassa waterbuck;Kobus defassa
+Denham's bustard;Neotis denhami
+Desert kangaroo rat;Dipodomys deserti
+Desert spiny lizard;Sceloporus magister
+Desert tortoise;Gopherus agassizii
+Devil, tasmanian;Sarcophilus harrisii
+Dik, kirk's dik;Madoqua kirkii
+Dingo;Canis dingo
+Dog, african wild;Lycaon pictus
+Dog, black-tailed prairie;Cynomys ludovicianus
+Dog, bush;Speothos vanaticus
+Dog, raccoon;Nyctereutes procyonoides
+Dolphin, bottle-nose;Tursiops truncatus
+Dolphin, common;Delphinus delphis
+Dolphin, striped;Stenella coeruleoalba
+Dove, emerald-spotted wood;Turtur chalcospilos
+Dove, galapagos;Zenaida galapagoensis
+Dove, laughing;Streptopelia senegalensis
+Dove, little brown;Streptopelia senegalensis
+Dove, mourning collared;Streptopelia decipiens
+Dove, ring;Columba palumbus
+Dove, rock;Columba livia
+Dove, white-winged;Zenaida asiatica
+Downy woodpecker;Picoides pubescens
+Dragon, asian water;Physignathus cocincinus
+Dragon, frilled;Chlamydosaurus kingii
+Dragon, komodo;Varanus komodensis
+Dragon, netted rock;Ctenophorus ornatus
+Dragon, ornate rock;Ctenophorus ornatus
+Dragon, western bearded;Amphibolurus barbatus
+Dragonfly, russian;Libellula quadrimaculata
+Dromedary camel;Camelus dromedarius
+Drongo, fork-tailed;Dicrurus adsimilis
+Duck, blue;Hymenolaimus malacorhynchus
+Duck, comb;Sarkidornis melanotos
+Duck, mountain;Hymenolaimus malacorhynchus
+Duck, white-faced whistling;Dendrocygna viduata
+Duiker, common;Sylvicapra grimma
+Duiker, gray;Sylvicapra grimma
+Dunnart, fat-tailed;Smithopsis crassicaudata
+Dusky gull;Larus fuliginosus
+Dusky rattlesnake;Crotalus triseriatus

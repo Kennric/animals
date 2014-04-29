@@ -1,0 +1,82 @@
+Rabbit, eastern cottontail;Sylvilagus floridanus
+Raccoon dog;Nyctereutes procyonoides
+Raccoon, common;Procyon lotor
+Raccoon, crab-eating;Procyon cancrivorus
+Racer snake;Coluber constrictor
+Racer, american;Coluber constrictor
+Racer, blue;Coluber constrictor foxii
+Radiated tortoise;Geochelone radiata
+Rainbow lory;Trichoglossus haematodus moluccanus
+Rat, arboral spiny;Echimys chrysurus
+Rat, desert kangaroo;Dipodomys deserti
+Rat, white-faced tree;Echimys chrysurus
+Rattlesnake, dusky;Crotalus triseriatus
+Rattlesnake, eastern diamondback;Crotalus adamanteus
+Rattlesnake, horned;Crotalus cerastes
+Raven, cape;Corvus albicollis
+Raven, white-necked;Corvus albicollis
+Red and blue macaw;Ara chloroptera
+Red brocket;Mazama americana
+Red deer;Cervus elaphus
+Red hartebeest;Alcelaphus buselaphus caama
+Red howler monkey;Alouatta seniculus
+Red kangaroo;Macropus rufus
+Red lava crab;Graspus graspus
+Red meerkat;Cynictis penicillata
+Red phalarope;Phalaropus fulicarius
+Red sheep;Ovis ammon
+Red squirrel;Tamiasciurus hudsonicus
+Red-billed buffalo weaver;Bubalornis niger
+Red-billed hornbill;Tockus erythrorhyncus
+Red-billed toucan;Ramphastos tucanus
+Red-billed tropic bird;Phaethon aethereus
+Red-breasted cockatoo;Eolophus roseicapillus
+Red-breasted nuthatch;Sitta canadensis
+Red-capped cardinal;Paroaria gularis
+Red-cheeked cordon bleu;Uraeginthus bengalus
+Red-headed woodpecker;Melanerpes erythrocephalus
+Red-knobbed coot;Fulica cristata
+Red-legged pademelon;Thylogale stigmatica
+Red-necked phalarope;Phalaropus lobatus
+Red-necked wallaby;Macropus rufogriseus
+Red-shouldered glossy starling;Lamprotornis nitens
+Red-tailed cockatoo;Calyptorhynchus magnificus
+Red-tailed hawk;Buteo jamaicensis
+Red-tailed phascogale;Phascogale calura
+Red-tailed wambenger;Phascogale calura
+Red-winged blackbird;Agelaius phoeniceus
+Reedbuck, bohor;Redunca redunca
+Reindeer;Rangifer tarandus
+Rhea, common;Rhea americana
+Rhea, gray;Rhea americana
+Rhea, greater;Rhea americana
+Rhesus macaque;Macaca mulatta
+Rhesus monkey;Macaca mulatta
+Rhinoceros, black;Diceros bicornis
+Rhinoceros, square-lipped;Ceratotherium simum
+Rhinoceros, white;Ceratotherium simum
+Richardson's ground squirrel;Spermophilus richardsonii
+Ring dove;Columba palumbus
+Ring-necked pheasant;Phasianus colchicus
+Ring-tailed coatimundi;Nasua nasua
+Ring-tailed gecko;Cyrtodactylus louisiadensis
+Ring-tailed lemur;Lemur catta
+Ring-tailed possum;Pseudocheirus peregrinus
+Ringtail;Bassariscus astutus
+Ringtail cat;Bassariscus astutus
+Ringtail, common;Pseudocheirus peregrinus
+River wallaby;Macropus agilis
+Roadrunner, greater;Geococcyx californianus
+Roan antelope;Hippotragus equinus
+Robin, kalahari scrub;Certotrichas paena
+Robin, white-throated;Irania gutteralis
+Rock dove;Columba livia
+Roe deer;Capreolus capreolus
+Roller, lilac-breasted;Coracias caudata
+Rose-ringed parakeet;Psittacula krameri
+Roseat flamingo;Phoenicopterus ruber
+Roseate cockatoo;Eolophus roseicapillus
+Royal tern;Thalasseus maximus
+Rufous tree pie;Dendrocitta vagabunda
+Rufous-collared sparrow;Zonotrichia capensis
+Russian dragonfly;Libellula quadrimaculata

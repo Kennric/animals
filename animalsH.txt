@@ -1,0 +1,46 @@
+Hanuman langur;Semnopithecus entellus
+Harbor seal;Phoca vitulina
+Hare, arctic;Lepus arcticus
+Hartebeest, coke's;Alcelaphus buselaphus cokii
+Hartebeest, red;Alcelaphus buselaphus caama
+Hawk, ferruginous;Buteo regalis
+Hawk, galapagos;Buteo galapagoensis
+Hawk, red-tailed;Buteo jamaicensis
+Hawk-eagle, crowned;Spizaetus coronatus
+Hawk-headed parrot;Deroptyus accipitrinus
+Hedgehog, south african;Erinaceus frontalis
+Helmeted guinea fowl;Numida meleagris
+Hen, sage;Centrocercus urophasianus
+Heron, black-crowned night;Nycticorax nycticorax
+Heron, boat-billed;Cochlearius cochlearius
+Heron, giant;Ardea golieth
+Heron, goliath;Ardea golieth
+Heron, gray;Ardea cinerea
+Heron, green;Butorides striatus
+Heron, green-backed;Butorides striatus
+Heron, grey;Ardea cinerea
+Heron, little;Butorides striatus
+Heron, striated;Butorides striatus
+Heron, yellow-crowned night;Nyctanassa violacea
+Herring gull;unavailable
+Hippopotamus;Hippopotamus amphibius
+Hoary marmot;Marmota caligata
+Hoffman's sloth;Choloepus hoffmani
+Honey badger;Mellivora capensis
+Hoopoe, eurasian;Upupa epops
+Hornbill, leadbeateri's ground;Bucorvus leadbeateri
+Hornbill, red-billed;Tockus erythrorhyncus
+Hornbill, southern ground;Bucorvus leadbeateri
+Hornbill, yellow-billed;Tockus flavirostris
+Horned lark;Eremophila alpestris
+Horned puffin;Fratercula corniculata
+Horned rattlesnake;Crotalus cerastes
+Hottentot teal;Anas punctata
+House crow;Corvus brachyrhynchos
+House sparrow;Passer domesticus
+Hudsonian godwit;Limosa haemastica
+Huron;Galictis vittata
+Hyena, brown;Hyaena brunnea
+Hyena, spotted;Crocuta crocuta
+Hyena, striped;Hyaena hyaena
+Hyrax;Dendrohyrax brucel

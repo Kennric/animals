@@ -1,0 +1,41 @@
+Fairy penguin;Eudyptula minor
+Falcon, peregrine;Falco peregrinus
+Falcon, prairie;Falco mexicanus
+Fat-tailed dunnart;Smithopsis crassicaudata
+Feathertail glider;Acrobates pygmaeus
+Feral rock pigeon;Columba livia
+Ferret, black-footed;Mustela nigripes
+Ferruginous hawk;Buteo regalis
+Field flicker;Colaptes campestroides
+Finch, common melba;Pytilia melba
+Fisher;Martes pennanti
+Flamingo, chilean;Phoenicopterus chilensis
+Flamingo, greater;Phoenicopterus ruber
+Flamingo, lesser;Phoeniconaias minor
+Flamingo, roseat;Phoenicopterus ruber
+Flicker, campo;Colaptes campestroides
+Flicker, field;Colaptes campestroides
+Flightless cormorant;Nannopterum harrisi
+Flycatcher, tyrant;Myiarchus tuberculifer
+Fork-tailed drongo;Dicrurus adsimilis
+Four-horned antelope;Tetracerus quadricornis
+Four-spotted skimmer;Libellula quadrimaculata
+Four-striped grass mouse;Rhabdomys pumilio
+Fowl, helmeted guinea;Numida meleagris
+Fox, arctic;Alopex lagopus
+Fox, asian red;Vulpes vulpes
+Fox, bat-eared;Otocyon megalotis
+Fox, blue;Alopex lagopus
+Fox, cape;Vulpes chama
+Fox, crab-eating;Dusicyon thous
+Fox, grey;Vulpes cinereoargenteus
+Fox, north american red;Vulpes vulpes
+Fox, pampa gray;Pseudalopex gymnocercus
+Fox, savanna;Dusicyon thous
+Fox, silver-backed;Vulpes chama
+Francolin, coqui;Francolinus coqui
+Francolin, swainson's;Francolinus swainsonii
+Frilled dragon;Chlamydosaurus kingii
+Frilled lizard;Chlamydosaurus kingii
+Fringe-eared oryx;Oryx gazella callotis
+Frogmouth, tawny;Podargus strigoides

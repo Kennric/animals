@@ -1,0 +1,16 @@
+Verreaux's sifaka;Propithecus verreauxi
+Vervet monkey;Cercopithecus aethiops
+Vicuna;Vicugna vicugna
+Violet-crested turaco;Tauraco porphyrelophus
+Violet-eared waxbill;Uraeginthus granatina
+Viper, egyptian;Naja haje
+Vulture, bengal;Gyps bengalensis
+Vulture, black;Aegypius tracheliotus
+Vulture, egyptian;Neophron percnopterus
+Vulture, griffon;Gyps fulvus
+Vulture, king;Sarcorhamphus papa
+Vulture, lappet-faced;Aegypius tracheliotus
+Vulture, oriental white-backed;Gyps bengalensis
+Vulture, turkey;Cathartes aura
+Vulture, white-headed;Aegypius occipitalis
+Vulture, white-rumped;Gyps bengalensis

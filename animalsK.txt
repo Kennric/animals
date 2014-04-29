@@ -1,0 +1,28 @@
+Kaffir cat;Felis silvestris lybica
+Kafue flats lechwe;Kobus leche robertsi
+Kalahari scrub robin;Certotrichas paena
+Kangaroo, black-faced;Macropus fuliginosus
+Kangaroo, brush-tailed rat;Bettongia penicillata
+Kangaroo, eastern grey;Macropus giganteus
+Kangaroo, jungle;Macropus agilis
+Kangaroo, red;Macropus rufus
+Kangaroo, western grey;Macropus fuliginosus
+Kelp gull;Larus dominicanus
+Killer whale;Orcinus orca
+King cormorant;Phalacrocorax albiventer
+King vulture;Sarcorhamphus papa
+Kingfisher, malachite;Corythornis cristata
+Kingfisher, pied;Ceryle rudis
+Kingfisher, white-throated;Halcyon smyrnesis
+Kinkajou;Potos flavus
+Kirk's dik dik;Madoqua kirkii
+Kiskadee, great;Pitangus sulphuratus
+Kite, black;Milvus migrans
+Klipspringer;Oreotragus oreotragus
+Knob-nosed goose;Sarkidornis melanotos
+Koala;Phascolarctos cinereus
+Komodo dragon;Varanus komodensis
+Kongoni;Alcelaphus buselaphus cokii
+Kookaburra, laughing;Dacelo novaeguineae
+Kori bustard;Choriotis kori
+Kudu, greater;Tragelaphus strepsiceros

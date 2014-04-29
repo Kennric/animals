@@ -82,7 +82,7 @@ with open('captions.txt', 'r') as captions:
     db.commit()
 
 
-with open('animals.txt', 'r') as animals:
+with open('animalsD.txt', 'r') as animals:
     for animal in animals:
         cursor = db.cursor()
         common, species = animal.split(';')
@@ -119,9 +119,12 @@ with open('animals.txt', 'r') as animals:
         except:
             print "can't contact image url"
             continue
-
-        if image.info()['Content-Type'] != 'image/jpeg':
-            print "not an image! " + response.info()['Content-Type']
+        
+        try:
+            if image.info()['Content-Type'] != 'image/jpeg':
+                print "not an image! " + response.info()['Content-Type']
+                continue
+        except:
             continue
 
         sql = "INSERT INTO animals (species,common_name,image_url) \

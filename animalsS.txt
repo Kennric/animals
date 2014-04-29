@@ -1,0 +1,175 @@
+Sable antelope;Hippotragus niger
+Sacred ibis;Threskionis aethiopicus
+Saddle-billed stork;Ephipplorhynchus senegalensis
+Sage grouse;Centrocercus urophasianus
+Sage hen;Centrocercus urophasianus
+Sally lightfoot crab;Graspus graspus
+Salmon pink bird eater tarantula;Lasiodora parahybana
+Salmon, sockeye;Oncorhynchus nerka
+Sambar;Cervus unicolor
+Sandgrouse, yellow-throated;Pterocles gutturalis
+Sandhill crane;Grus canadensis
+Sandpiper, spotted wood;Tringa glareola
+Sarus crane;Grus antigone
+Savanna baboon;Papio cynocephalus
+Savanna fox;Dusicyon thous
+Savannah deer;Mazama gouazoubira
+Scaly-breasted lorikeet;Trichoglossus chlorolepidotus
+Scarlet macaw;Ara macao
+Scottish highland cow;Bos taurus
+Screamer, crested;Chauna torquata
+Screamer, southern;Chauna torquata
+Seal, common;Phoca vitulina
+Seal, harbor;Phoca vitulina
+Seal, northern elephant;Mirounga angustirostris
+Seal, northern fur;Callorhinus ursinus
+Seal, southern elephant;Mirounga leonina
+Secretary bird;Sagittarius serpentarius
+Serval;Felis serval
+Seven-banded armadillo;Dasypus septemcincus
+Shark, blue;Prionace glauca
+Sheathbill, snowy;Chionis alba
+Sheep, american bighorn;Ovis canadensis
+Sheep, red;Ovis ammon
+Sheep, stone;Ovis dalli stonei
+Shelduck, common;Tadorna tadorna
+Shelduck, european;Tadorna tadorna
+Short-beaked echidna;Tachyglossus aculeatus
+Short-nosed bandicoot;Isoodon obesulus
+Shrew, mandras tree;Anathana ellioti
+Shrike, common boubou;Laniarius ferrugineus
+Shrike, crimson-breasted;Laniaurius atrococcineus
+Shrike, southern white-crowned;Eurocephalus anguitimens
+Sidewinder;Crotalus cerastes
+Sifaka, verreaux's;Propithecus verreauxi
+Silver gull;Larus novaehollandiae
+Silver-backed fox;Vulpes chama
+Silver-backed jackal;Canis mesomelas
+Siskin, pine;Carduelis pinus
+Siskin, yellow-rumped;Carduelis uropygialis
+Skimmer, four-spotted;Libellula quadrimaculata
+Skink, african;Mabuya spilogaster
+Skink, blue-tongued;Tiliqua scincoides
+Skua, great;Catharacta skua
+Skua, long-tailed;Stercorarius longicausus
+Skunk, striped;Mephitis mephitis
+Skunk, western spotted;Spilogale gracilis
+Slender loris;Loris tardigratus
+Slender-billed cockatoo;Cacatua tenuirostris
+Sloth bear;Melursus ursinus
+Sloth, hoffman's;Choloepus hoffmani
+Sloth, pale-throated three-toed;Bradypus tridactylus
+Sloth, two-toed;Choloepus hoffmani
+Sloth, two-toed tree;Choloepus hoffmani
+Small Indian mongoose;Herpestes javanicus
+Small-clawed otter;Aonyx cinerea
+Small-spotted genet;Genetta genetta
+Small-toothed palm civet;Arctogalidia trivirgata
+Smith's bush squirrel;Paraxerus cepapi
+Snake, buttermilk;Coluber constrictor
+Snake, carpet;Morelia spilotes variegata
+Snake, eastern indigo;Drymarchon corias couperi
+Snake, green vine;Oxybelis fulgidus
+Snake, racer;Coluber constrictor
+Snake, tiger;Notechis semmiannulatus
+Snake, western patch-nosed;Salvadora hexalepis
+Snake-necked turtle;Chelodina longicollis
+Snow goose;Anser caerulescens
+Snowy egret;Egretta thula
+Snowy owl;Nyctea scandiaca
+Snowy sheathbill;Chionis alba
+Sociable weaver;Philetairus socius
+Sockeye salmon;Oncorhynchus nerka
+South African hedgehog;Erinaceus frontalis
+South American puma;Felis concolor
+South American sea lion;Otaria flavescens
+Southern black-backed gull;Larus dominicanus
+Southern boubou;Laniarius ferrugineus
+Southern brown bandicoot;Isoodon obesulus
+Southern elephant seal;Mirounga leonina
+Southern ground hornbill;Bucorvus leadbeateri
+Southern hairy-nosed wombat;Lasiorhinus latifrons
+Southern lapwing;Vanellus chilensis
+Southern right whale;Eubalaena australis
+Southern screamer;Chauna torquata
+Southern sea lion;Otaria flavescens
+Southern tamandua;Tamandua tetradactyla
+Southern white-crowned shrike;Eurocephalus anguitimens
+Sparrow, house;Passer domesticus
+Sparrow, rufous-collared;Zonotrichia capensis
+Spectacled caiman;Caiman crocodilus
+Spider, wolf;Lycosa godeffroyi
+Spoonbill, european;Platalea leucordia
+Spoonbill, white;Platalea leucordia
+Sportive lemur;Lepilemur rufescens
+Spotted deer;Axis axis
+Spotted hyena;Crocuta crocuta
+Spotted wood sandpiper;Tringa glareola
+Spotted-tailed quoll;Dasyurus maculatus
+Springbok;Antidorcas marsupialis
+Springbuck;Antidorcas marsupialis
+Springhare;Pedetes capensis
+Spur-winged goose;Plectopterus gambensis
+Spurfowl, yellow-necked;Francolinus leucoscepus
+Square-lipped rhinoceros;Ceratotherium simum
+Squirrel glider;Petaurus norfolcensis
+Squirrel, african bush;Paraxerus cepapi
+Squirrel, antelope ground;Ammospermophilus nelsoni
+Squirrel, arctic ground;Spermophilus parryii
+Squirrel, eastern fox;Sciurus niger
+Squirrel, eurasian red;Sciurus vulgaris
+Squirrel, european red;Sciurus vulgaris
+Squirrel, golden-mantled ground;Spermophilus lateralis
+Squirrel, grey-footed;Paraxerus cepapi
+Squirrel, indian giant;Ratufa indica
+Squirrel, malabar;Ratufa indica
+Squirrel, nelson ground;Ammospermophilus nelsoni
+Squirrel, palm;Funambulus pennati
+Squirrel, pine;Tamiasciurus hudsonicus
+Squirrel, red;Tamiasciurus hudsonicus
+Squirrel, richardson's ground;Spermophilus richardsonii
+Squirrel, smith's bush;Paraxerus cepapi
+Squirrel, thirteen-lined;Spermophilus tridecemlineatus
+Squirrel, uinta ground;Spermophilus armatus
+Stanley bustard;Neotis denhami
+Stanley crane;Anthropoides paradisea
+Starfish, crown of thorns;Acanthaster planci
+Starling, cape;Lamprotornis nitens
+Starling, greater blue-eared;Lamprotornis chalybaeus
+Starling, red-shouldered glossy;Lamprotornis nitens
+Starling, superb;Lamprotornis superbus
+Steenbok;Raphicerus campestris
+Steenbuck;Raphicerus campestris
+Steller sea lion;Eumetopias jubatus
+Steller's sea lion;Eumetopias jubatus
+Stick insect;Leprocaulinus vipera
+Stilt, black-winged;Himantopus himantopus
+Stone sheep;Ovis dalli stonei
+Stork, black-necked;Ephippiorhynchus mycteria
+Stork, european;Ciconia ciconia
+Stork, greater adjutant;Leptoptilus dubius
+Stork, jabiru;Ephippiorhynchus mycteria
+Stork, marabou;Leptoptilos crumeniferus
+Stork, openbill;Anastomus oscitans
+Stork, painted;Mycteria leucocephala
+Stork, saddle-billed;Ephipplorhynchus senegalensis
+Stork, white;Ciconia ciconia
+Stork, white-necked;Ciconia episcopus
+Stork, woolly-necked;Ciconia episcopus
+Stork, yellow-billed;Mycteria ibis
+Striated heron;Butorides striatus
+Striped dolphin;Stenella coeruleoalba
+Striped hyena;Hyaena hyaena
+Striped skunk;Mephitis mephitis
+Sugar glider;Petaurus breviceps
+Sulfur-crested cockatoo;Cacatua galerita
+Sun gazer;Cordylus giganteus
+Sunbird, lesser double-collared;Nectarinia chalybea
+Sungazer, yellow-brown;Cordylus giganteus
+Superb starling;Lamprotornis superbus
+Suricate;Suricata suricatta
+Swainson's francolin;Francolinus swainsonii
+Swallow-tail gull;Creagrus furcatus
+Swamp deer;Cervus duvauceli
+Swan, black;Cygnus atratus
+Swan, trumpeter;Cygnus buccinator

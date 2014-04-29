@@ -1,0 +1,68 @@
+Macaque, bonnet;Macaca radiata
+Macaque, japanese;Macaca fuscata
+Macaque, pig-tailed;Macaca nemestrina
+Macaque, rhesus;Macaca mulatta
+Macaw, blue and gold;Ara ararauna
+Macaw, blue and yellow;Ara ararauna
+Macaw, green-winged;Ara chloroptera
+Macaw, red and blue;Ara chloroptera
+Macaw, scarlet;Ara macao
+Madagascar fruit bat;Pteropus rufus
+Madagascar hawk owl;Ninox superciliaris
+Magellanic penguin;Spheniscus magellanicus
+Magistrate black colobus;Colobus guerza
+Magnificent frigate bird;Fregata magnificans
+Magpie, australian;Gymnorhina tibicen
+Magpie, black-backed;Gymnorhina tibicen
+Malabar squirrel;Ratufa indica
+Malachite kingfisher;Corythornis cristata
+Malagasy ground boa;Acrantophis madagascariensis
+Mallard;Anas platyrhynchos
+Malleefowl;Leipoa ocellata
+Manatee;Trichechus inunguis
+Mandras tree shrew;Anathana ellioti
+Mara;Dolichitus patagonum
+Marabou stork;Leptoptilos crumeniferus
+Margay;Felis wiedi or Leopardus weidi
+Marine iguana;Amblyrhynchus cristatus
+Marmot, hoary;Marmota caligata
+Marmot, yellow-bellied;Marmota flaviventris
+Marshbird, brown and yellow;Pseudoleistes virescens
+Marten, american;Martes americana
+Masked booby;Sula dactylatra
+Meerkat;Suricata suricatta
+Meerkat, red;Cynictis penicillata
+Mexican beaded lizard;Heloderma horridum
+Mexican boa;Boa constrictor mexicana
+Mexican wolf;Canis lupus baileyi
+Miner's cat;Bassariscus astutus
+Mississippi alligator;Alligator mississippiensis
+Moccasin, water;Agkistrodon piscivorus
+Mocking cliffchat;Thamnolaea cinnmomeiventris
+Mockingbird, galapagos;Nesomimus trifasciatus
+Mongoose, banded;Mungos mungo
+Mongoose, eastern dwarf;Helogale undulata
+Mongoose, javan gold-spotted;Herpestes javanicus
+Mongoose, small indian;Herpestes javanicus
+Mongoose, yellow;Cynictis penicillata
+Monitor, two-banded;Varanus salvator
+Monitor, water;Varanus salvator
+Monitor, white-throated;Varanus albigularis
+Monkey, black spider;Ateles paniscus
+Monkey, bleeding heart;Theropithecus gelada
+Monkey, red howler;Alouatta seniculus
+Monkey, rhesus;Macaca mulatta
+Monkey, vervet;Cercopithecus aethiops
+Monster, gila;Heloderma horridum
+Moorhen, purple;Porphyrio porphyrio
+Moose;Alces alces
+Mouflon;Ovis musimon
+Mountain duck;Hymenolaimus malacorhynchus
+Mountain goat;Oreamnos americanus
+Mountain lion;Felis concolor
+Mourning collared dove;Streptopelia decipiens
+Mouse, four-striped grass;Rhabdomys pumilio
+Mule deer;Odocoileus hemionus
+Musk ox;Ovibos moschatus
+Mynah, common;Acridotheres tristis
+Mynah, indian;Acridotheres tristis

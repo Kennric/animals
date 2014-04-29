@@ -1,0 +1,5 @@
+Zebra, common;Equus burchelli
+Zebra, plains;Equus burchelli
+Zorilla;Ictonyx striatus
+Zorro, azara's;Pseudalopex gymnocercus
+Zorro, common;Dusicyon thous

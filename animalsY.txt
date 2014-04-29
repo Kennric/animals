@@ -1,0 +1,12 @@
+Yak;Bos mutus
+Yellow baboon;Papio cynocephalus
+Yellow mongoose;Cynictis penicillata
+Yellow-bellied marmot;Marmota flaviventris
+Yellow-billed hornbill;Tockus flavirostris
+Yellow-billed stork;Mycteria ibis
+Yellow-brown sungazer;Cordylus giganteus
+Yellow-crowned night heron;Nyctanassa violacea
+Yellow-headed caracara;Milvago chimachima
+Yellow-necked spurfowl;Francolinus leucoscepus
+Yellow-rumped siskin;Carduelis uropygialis
+Yellow-throated sandgrouse;Pterocles gutturalis

@@ -1,0 +1,150 @@
+Caiman, spectacled;Caiman crocodilus
+California sea lion;Zalophus californicus
+Camel, dromedary;Camelus dromedarius
+Campo flicker;Colaptes campestroides
+Canada goose;Branta canadensis
+Canadian river otter;Lutra canadensis
+Canadian tiger swallowtail butterfly;Papilio canadensis
+Cape Barren goose;Cereopsis novaehollandiae
+Cape clawless otter;Aonyx capensis
+Cape cobra;Naja nivea
+Cape fox;Vulpes chama
+Cape raven;Corvus albicollis
+Cape starling;Lamprotornis nitens
+Cape white-eye;Zosterops pallidus
+Cape wild cat;Felis libyca
+Capuchin, black-capped;Cebus apella
+Capuchin, brown;Cebus apella
+Capuchin, weeper;Cebus nigrivittatus
+Capuchin, white-fronted;Cebus albifrons
+Capybara;Hydrochoerus hydrochaeris
+Caracal;Felis caracal
+Caracara, yellow-headed;Milvago chimachima
+Cardinal, black-throated;Paroaria gularis
+Cardinal, red-capped;Paroaria gularis
+Caribou;Rangifer tarandus
+Carmine bee-eater;Merops nubicus
+Carpet python;Morelia spilotes variegata
+Carpet snake;Morelia spilotes variegata
+Cat, african wild;Felis silvestris lybica
+Cat, cape wild;Felis libyca
+Cat, civet;Bassariscus astutus
+Cat, european wild;Felis silvestris lybica
+Cat, jungle;Felis chaus
+Cat, kaffir;Felis silvestris lybica
+Cat, long-tailed spotted;Felis wiedi or Leopardus weidi
+Cat, miner's;Bassariscus astutus
+Cat, native;Dasyurus viverrinus
+Cat, ringtail;Bassariscus astutus
+Cat, tiger;Dasyurus maculatus
+Cat, toddy;Paradoxurus hermaphroditus
+Catfish, blue;Ictalurus furcatus
+Cattle egret;Bubulcus ibis
+Cereopsis goose;Cereopsis novaehollandiae
+Chacma baboon;Papio ursinus
+Cheetah;Acinynox jubatus
+Chestnut weaver;Ploceus rubiginosus
+Chickadee, black-capped;Parus atricapillus
+Chilean flamingo;Phoenicopterus chilensis
+Chimpanzee;Pan troglodytes
+Chipmunk, least;Eutamias minimus
+Chital;Axis axis
+Chuckwalla;Sauromalus obesus
+Civet cat;Bassariscus astutus
+Civet, common palm;Paradoxurus hermaphroditus
+Civet, small-toothed palm;Arctogalidia trivirgata
+Clark's nutcracker;Nucifraga columbiana
+Cliffchat, mocking;Thamnolaea cinnmomeiventris
+Coatimundi, ring-tailed;Nasua nasua
+Coatimundi, white-nosed;Nasua narica
+Cobra, cape;Naja nivea
+Cobra, egyptian;Naja haje
+Cockatoo, long-billed;Cacatua tenuirostris
+Cockatoo, red-breasted;Eolophus roseicapillus
+Cockatoo, red-tailed;Calyptorhynchus magnificus
+Cockatoo, roseate;Eolophus roseicapillus
+Cockatoo, slender-billed;Cacatua tenuirostris
+Cockatoo, sulfur-crested;Cacatua galerita
+Coke's hartebeest;Alcelaphus buselaphus cokii
+Collared lemming;Dicrostonyx groenlandicus
+Collared lizard;Crotaphytus collaris
+Collared peccary;Tayassu tajacu
+Colobus, black and white;Colobus guerza
+Colobus, magistrate black;Colobus guerza
+Colobus, white-mantled;Colobus guerza
+Columbian rainbow boa;Epicrates cenchria maurus
+Comb duck;Sarkidornis melanotos
+Common boubou shrike;Laniarius ferrugineus
+Common brushtail possum;Trichosurus vulpecula
+Common dolphin;Delphinus delphis
+Common duiker;Sylvicapra grimma
+Common eland;Taurotagus oryx
+Common genet;Genetta genetta
+Common goldeneye;Bucephala clangula
+Common green iguana;Iguana iguana
+Common grenadier;Uraeginthus granatina
+Common langur;Semnopithecus entellus
+Common long-nosed armadillo;Dasypus novemcinctus
+Common melba finch;Pytilia melba
+Common mynah;Acridotheres tristis
+Common nighthawk;Chordeiles minor
+Common palm civet;Paradoxurus hermaphroditus
+Common pheasant;Phasianus colchicus
+Common raccoon;Procyon lotor
+Common rhea;Rhea americana
+Common ringtail;Pseudocheirus peregrinus
+Common seal;Phoca vitulina
+Common shelduck;Tadorna tadorna
+Common turkey;Meleagris gallopavo
+Common wallaroo;Macropus robustus
+Common waterbuck;Kobus defassa
+Common wolf;Canis lupus
+Common wombat;Vombatus ursinus
+Common zebra;Equus burchelli
+Common zorro;Dusicyon thous
+Constrictor, eastern boa;Acrantophis madagascariensis
+Cook's tree boa;Corallus hortulanus cooki
+Coot, red-knobbed;Fulica cristata
+Coqui francolin;Francolinus coqui
+Coqui partridge;Francolinus coqui
+Corella, long-billed;Cacatua tenuirostris
+Cormorant, flightless;Nannopterum harrisi
+Cormorant, great;Phalacrocorax carbo
+Cormorant, javanese;Phalacrocorax niger
+Cormorant, king;Phalacrocorax albiventer
+Cormorant, large;Phalacrocorax carbo
+Cormorant, little;Phalacrocorax niger
+Cormorant, neotropic;Phalacrocorax brasilianus
+Cormorant, pied;Phalacrocorax varius
+Cottonmouth;Agkistrodon piscivorus
+Cougar;Felis concolor
+Cow, scottish highland;Bos taurus
+Coyote;Canis latrans
+Crab, red lava;Graspus graspus
+Crab, sally lightfoot;Graspus graspus
+Crab-eating fox;Dusicyon thous
+Crab-eating raccoon;Procyon cancrivorus
+Crake, african black;Limnocorax flavirostra
+Crane, black-crowned;Balearica pavonina
+Crane, blue;Anthropoides paradisea
+Crane, brolga;Grus rubicundus
+Crane, sandhill;Grus canadensis
+Crane, sarus;Grus antigone
+Crane, stanley;Anthropoides paradisea
+Crane, wattled;Bugeranus caruncalatus
+Creeper, black-tailed tree;Climacteris melanura
+Crested barbet;Trachyphonus vaillantii
+Crested bunting;Melophus lathami
+Crested porcupine;Hystrix cristata
+Crested screamer;Chauna torquata
+Crimson-breasted shrike;Laniaurius atrococcineus
+Crocodile, nile;Crocodylus niloticus
+Crow, american;Corvus brachyrhynchos
+Crow, house;Corvus brachyrhynchos
+Crow, pied;Corvus albus
+Crown of thorns starfish;Acanthaster planci
+Crowned eagle;Spizaetus coronatus
+Crowned hawk-eagle;Spizaetus coronatus
+Cuis;Microcavia australis
+Curlew, black;Haematopus ater
+Curve-billed thrasher;Toxostoma curvirostre

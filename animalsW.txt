@@ -1,0 +1,86 @@
+Wagtail, african pied;Motacilla aguimp
+Wallaby, agile;Macropus agilis
+Wallaby, bennett's;Macropus rufogriseus
+Wallaby, dama;Macropus eugenii
+Wallaby, euro;Macropus robustus
+Wallaby, red-necked;Macropus rufogriseus
+Wallaby, river;Macropus agilis
+Wallaby, tammar;Macropus eugenii
+Wallaby, whip-tailed;Macropus parryi
+Wallaroo, common;Macropus robustus
+Wambenger, red-tailed;Phascogale calura
+Wapiti, elk,;Cervus canadensis
+Warthog;Phacochoerus aethiopus
+Water legaan;Varanus salvator
+Water moccasin;Agkistrodon piscivorus
+Water monitor;Varanus salvator
+Waterbuck, common;Kobus defassa
+Waterbuck, defassa;Kobus defassa
+Wattled crane;Bugeranus caruncalatus
+Waved albatross;Diomedea irrorata
+Waxbill, black-cheeked;Estrilda erythronotos
+Waxbill, blue;Uraeginthus angolensis
+Waxbill, violet-eared;Uraeginthus granatina
+Weaver, chestnut;Ploceus rubiginosus
+Weaver, lesser masked;Ploceus intermedius
+Weaver, red-billed buffalo;Bubalornis niger
+Weaver, sociable;Philetairus socius
+Weaver, white-browed sparrow;Plocepasser mahali
+Weeper capuchin;Cebus nigrivittatus
+Western bearded dragon;Amphibolurus barbatus
+Western grey kangaroo;Macropus fuliginosus
+Western lowland gorilla;Gorilla gorilla
+Western patch-nosed snake;Salvadora hexalepis
+Western pygmy possum;Cercatetus concinnus
+Western spotted skunk;Spilogale gracilis
+Whale, baleen;Eubalaena australis
+Whale, killer;Orcinus orca
+Whale, long-finned pilot;Globicephala melas
+Whale, southern right;Eubalaena australis
+Whip-tailed wallaby;Macropus parryi
+White rhinoceros;Ceratotherium simum
+White spoonbill;Platalea leucordia
+White stork;Ciconia ciconia
+White-bellied sea eagle;Haliaetus leucogaster
+White-browed owl;Ninox superciliaris
+White-browed sparrow weaver;Plocepasser mahali
+White-cheeked pintail;Anas bahamensis
+White-eye, cape;Zosterops pallidus
+White-eye, pale;Zosterops pallidus
+White-faced tree rat;Echimys chrysurus
+White-faced whistling duck;Dendrocygna viduata
+White-fronted bee-eater;Merops bullockoides
+White-fronted capuchin;Cebus albifrons
+White-headed vulture;Aegypius occipitalis
+White-lipped peccary;Tayassu pecari
+White-mantled colobus;Colobus guerza
+White-necked raven;Corvus albicollis
+White-necked stork;Ciconia episcopus
+White-nosed coatimundi;Nasua narica
+White-rumped vulture;Gyps bengalensis
+White-tailed deer;Odocoilenaus virginianus
+White-tailed jackrabbit;Lepus townsendii
+White-throated kingfisher;Halcyon smyrnesis
+White-throated monitor;Varanus albigularis
+White-throated robin;Irania gutteralis
+White-throated toucan;Ramphastos tucanus
+White-winged black tern;Chlidonias leucopterus
+White-winged dove;Zenaida asiatica
+White-winged tern;Chlidonias leucopterus
+Wild boar;Sus scrofa
+Wild turkey;Meleagris gallopavo
+Wild water buffalo;Bubalus arnee
+Wildebeest, blue;Connochaetus taurinus
+Wolf spider;Lycosa godeffroyi
+Wolf, common;Canis lupus
+Wolf, mexican;Canis lupus baileyi
+Wolf, timber;Canis lupus lycaon
+Wombat, common;Vombatus ursinus
+Wombat, southern hairy-nosed;Lasiorhinus latifrons
+Wood pigeon;Columba palumbus
+Woodchuck;Marmota monax
+Woodcock, american;Scolopax minor
+Woodpecker, downy;Picoides pubescens
+Woodpecker, red-headed;Melanerpes erythrocephalus
+Woolly-necked stork;Ciconia episcopus
+Woylie;Bettongia penicillata

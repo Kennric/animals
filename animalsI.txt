@@ -1,0 +1,18 @@
+Ibex;Capra ibex
+Ibis, glossy;Plegadis falcinellus
+Ibis, puna;Plegadis ridgwayi
+Ibis, sacred;Threskionis aethiopicus
+Iguana, common green;Iguana iguana
+Iguana, land;Conolophus subcristatus
+Iguana, marine;Amblyrhynchus cristatus
+Impala;Aepyceros mylampus
+Indian giant squirrel;Ratufa indica
+Indian jackal;Canis aureus
+Indian leopard;Panthera pardus
+Indian mynah;Acridotheres tristis
+Indian peacock;Pavo cristatus
+Indian porcupine;Hystrix indica
+Indian red admiral;Vanessa indica
+Indian star tortoise;Geochelone elegans
+Indian tree pie;Dendrocitta vagabunda
+Insect, stick;Leprocaulinus vipera

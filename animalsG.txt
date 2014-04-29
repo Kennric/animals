@@ -1,0 +1,106 @@
+Galah;Eolophus roseicapillus
+Galapagos albatross;Diomedea irrorata
+Galapagos dove;Zenaida galapagoensis
+Galapagos hawk;Buteo galapagoensis
+Galapagos mockingbird;Nesomimus trifasciatus
+Galapagos penguin;Spheniscus mendiculus
+Galapagos sea lion;Zalophus californicus
+Galapagos tortoise;Geochelone elephantopus
+Gambel's quail;Callipepla gambelii
+Gaur;Bos frontalis
+Gazelle, grant's;Gazella granti
+Gazelle, thomson's;Gazella thompsonii
+Gazer, sun;Cordylus giganteus
+Gecko, barking;Phylurus milli
+Gecko, bent-toed;Cyrtodactylus louisiadensis
+Gecko, ring-tailed;Cyrtodactylus louisiadensis
+Gecko, tokay;Gekko gecko
+Gelada baboon;Theropithecus gelada
+Gemsbok;Oryx gazella
+Genet, common;Genetta genetta
+Genet, small-spotted;Genetta genetta
+Genoveva;Junonia genoveua
+Gerenuk;Litrocranius walleri
+Giant anteater;Myrmecophaga tridactyla
+Giant armadillo;Priodontes maximus
+Giant girdled lizard;Cordylus giganteus
+Giant heron;Ardea golieth
+Giant otter;Pteronura brasiliensis
+Gila monster;Heloderma horridum
+Giraffe;Giraffe camelopardalis
+Glider, feathertail;Acrobates pygmaeus
+Glider, squirrel;Petaurus norfolcensis
+Glider, sugar;Petaurus breviceps
+Glossy ibis;Plegadis falcinellus
+Gnu, brindled;Connochaetus taurinus
+Goanna lizard;Varanus sp.
+Goat, mountain;Oreamnos americanus
+Godwit, hudsonian;Limosa haemastica
+Golden brush-tailed possum;Trichosurus vulpecula
+Golden eagle;Aquila chrysaetos
+Golden jackal;Canis aureus
+Golden-mantled ground squirrel;Spermophilus lateralis
+Goldeneye, barrows;Bucephala clangula
+Goldeneye, common;Bucephala clangula
+Goliath heron;Ardea golieth
+Gonolek, burchell's;Laniaurius atrococcineus
+Goose, andean;Chloephaga melanoptera
+Goose, canada;Branta canadensis
+Goose, cape barren;Cereopsis novaehollandiae
+Goose, cereopsis;Cereopsis novaehollandiae
+Goose, egyptian;Alopochen aegyptiacus
+Goose, greylag;Anser anser
+Goose, knob-nosed;Sarkidornis melanotos
+Goose, snow;Anser caerulescens
+Goose, spur-winged;Plectopterus gambensis
+Gorilla, western lowland;Gorilla gorilla
+Grant's gazelle;Gazella granti
+Gray duiker;Sylvicapra grimma
+Gray heron;Ardea cinerea
+Gray langur;Semnopithecus entellus
+Gray rhea;Rhea americana
+Great cormorant;Phalacrocorax carbo
+Great egret;Casmerodius albus
+Great horned owl;Bubo virginianus
+Great kiskadee;Pitangus sulphuratus
+Great skua;Catharacta skua
+Great white pelican;Pelecans onocratalus
+Greater adjutant stork;Leptoptilus dubius
+Greater blue-eared starling;Lamprotornis chalybaeus
+Greater flamingo;Phoenicopterus ruber
+Greater kudu;Tragelaphus strepsiceros
+Greater rhea;Rhea americana
+Greater roadrunner;Geococcyx californianus
+Greater sage grouse;Centrocercus urophasianus
+Grebe, little;Tachybaptus ruficollis
+Green heron;Butorides striatus
+Green vine snake;Oxybelis fulgidus
+Green-backed heron;Butorides striatus
+Green-winged macaw;Ara chloroptera
+Green-winged trumpeter;Psophia viridis
+Grenadier, common;Uraeginthus granatina
+Grenadier, purple;Uraeginthus granatina
+Grey fox;Vulpes cinereoargenteus
+Grey heron;Ardea cinerea
+Grey lourie;Lorythaixoides concolor
+Grey mouse lemur;Microcebus murinus
+Grey phalarope;Phalaropus fulicarius
+Grey-footed squirrel;Paraxerus cepapi
+Greylag goose;Anser anser
+Griffon vulture;Gyps fulvus
+Grison;Galictis vittata
+Grizzly bear;Ursus arctos
+Ground legaan;Varanus sp.
+Groundhog;Marmota monax
+Grouse, greater sage;Centrocercus urophasianus
+Grouse, sage;Centrocercus urophasianus
+Guanaco;Lama guanicoe
+Guerza;Colobus guerza
+Gull, dusky;Larus fuliginosus
+Gull, herring;unavailable
+Gull, kelp;Larus dominicanus
+Gull, lava;Larus fuliginosus
+Gull, pacific;Gabianus pacificus
+Gull, silver;Larus novaehollandiae
+Gull, southern black-backed;Larus dominicanus
+Gull, swallow-tail;Creagrus furcatus

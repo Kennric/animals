@@ -1,0 +1,157 @@
+Baboon, chacma;Papio ursinus
+Baboon, gelada;Theropithecus gelada
+Baboon, olive;Papio cynocephalus
+Baboon, savanna;Papio cynocephalus
+Baboon, yellow;Papio cynocephalus
+Badger, american;Taxidea taxus
+Badger, eurasian;Meles meles
+Badger, european;Meles meles
+Badger, honey;Mellivora capensis
+Bahama pintail;Anas bahamensis
+Bald eagle;Haliaeetus leucocephalus
+Baleen whale;Eubalaena australis
+Banded mongoose;Mungos mungo
+Bandicoot, long-nosed;Perameles nasuta
+Bandicoot, short-nosed;Isoodon obesulus
+Bandicoot, southern brown;Isoodon obesulus
+Barasingha deer;Cervus duvauceli
+Barbet, black-collared;Lybius torquatus
+Barbet, crested;Trachyphonus vaillantii
+Barbet, levaillant's;Trachyphonus vaillantii
+Bare-faced go away bird;Lorythaixoides concolor
+Barking gecko;Phylurus milli
+Barrows goldeneye;Bucephala clangula
+Bat, asian false vampire;Megaderma spasma
+Bat, little brown;Myotis lucifugus
+Bat, madagascar fruit;Pteropus rufus
+Bat-eared fox;Otocyon megalotis
+Bateleur eagle;Terathopius ecaudatus
+Bear, american black;Ursus americanus
+Bear, black;Ursus americanus
+Bear, grizzly;Ursus arctos
+Bear, polar;Ursus maritimus
+Bear, sloth;Melursus ursinus
+Beaver, american;Castor canadensis
+Beaver, eurasian;Castor fiber
+Beaver, european;Castor fiber
+Beaver, north american;Castor canadensis
+Bee-eater, carmine;Merops nubicus
+Bee-eater, nubian;Merops nubicus
+Bee-eater, white-fronted;Merops bullockoides
+Beisa oryx;Oryx gazella
+Bengal vulture;Gyps bengalensis
+Bennett's wallaby;Macropus rufogriseus
+Bent-toed gecko;Cyrtodactylus louisiadensis
+Bettong, brush-tailed;Bettongia penicillata
+Bird, bare-faced go away;Lorythaixoides concolor
+Bird, black-throated butcher;Cracticus nigroagularis
+Bird, magnificent frigate;Fregata magnificans
+Bird, pied butcher;Cracticus nigroagularis
+Bird, red-billed tropic;Phaethon aethereus
+Bird, secretary;Sagittarius serpentarius
+Bison, american;Bison bison
+Black and white colobus;Colobus guerza
+Black bear;Ursus americanus
+Black curlew;Haematopus ater
+Black kite;Milvus migrans
+Black rhinoceros;Diceros bicornis
+Black spider monkey;Ateles paniscus
+Black swan;Cygnus atratus
+Black vulture;Aegypius tracheliotus
+Black-backed jackal;Canis mesomelas
+Black-backed magpie;Gymnorhina tibicen
+Black-capped capuchin;Cebus apella
+Black-capped chickadee;Parus atricapillus
+Black-cheeked waxbill;Estrilda erythronotos
+Black-collared barbet;Lybius torquatus
+Black-crowned crane;Balearica pavonina
+Black-crowned night heron;Nycticorax nycticorax
+Black-eyed bulbul;Pycnonotus barbatus
+Black-faced kangaroo;Macropus fuliginosus
+Black-footed ferret;Mustela nigripes
+Black-fronted bulbul;Pycnonotus nigricans
+Black-necked stork;Ephippiorhynchus mycteria
+Black-tailed deer;Odocoileus hemionus
+Black-tailed prairie dog;Cynomys ludovicianus
+Black-tailed tree creeper;Climacteris melanura
+Black-throated butcher bird;Cracticus nigroagularis
+Black-throated cardinal;Paroaria gularis
+Black-winged stilt;Himantopus himantopus
+Blackbird, red-winged;Agelaius phoeniceus
+Blackbuck;Antilope cervicapra
+Blackish oystercatcher;Haematopus ater
+Blacksmith plover;Vanellus armatus
+Bleeding heart monkey;Theropithecus gelada
+Blesbok;Damaliscus dorcas
+Bleu, blue-breasted cordon;Uraeginthus angolensis
+Bleu, red-cheeked cordon;Uraeginthus bengalus
+Blue and gold macaw;Ara ararauna
+Blue and yellow macaw;Ara ararauna
+Blue catfish;Ictalurus furcatus
+Blue crane;Anthropoides paradisea
+Blue duck;Hymenolaimus malacorhynchus
+Blue fox;Alopex lagopus
+Blue peacock;Pavo cristatus
+Blue racer;Coluber constrictor foxii
+Blue shark;Prionace glauca
+Blue waxbill;Uraeginthus angolensis
+Blue wildebeest;Connochaetus taurinus
+Blue-breasted cordon bleu;Uraeginthus angolensis
+Blue-faced booby;Sula dactylatra
+Blue-footed booby;Sula nebouxii
+Blue-tongued lizard;Tiliqua scincoides
+Blue-tongued skink;Tiliqua scincoides
+Boa, columbian rainbow;Epicrates cenchria maurus
+Boa, cook's tree;Corallus hortulanus cooki
+Boa, emerald green tree;Boa caninus
+Boa, malagasy ground;Acrantophis madagascariensis
+Boa, mexican;Boa constrictor mexicana
+Boar, wild;Sus scrofa
+Boat-billed heron;Cochlearius cochlearius
+Bobcat;Felis rufus
+Bohor reedbuck;Redunca redunca
+Bonnet macaque;Macaca radiata
+Bontebok;Damaliscus dorcas
+Booby, blue-faced;Sula dactylatra
+Booby, blue-footed;Sula nebouxii
+Booby, masked;Sula dactylatra
+Bottle-nose dolphin;Tursiops truncatus
+Boubou, southern;Laniarius ferrugineus
+Brazilian otter;Pteronura brasiliensis
+Brazilian tapir;Tapirus terrestris
+Brindled gnu;Connochaetus taurinus
+Brocket, brown;Mazama gouazoubira
+Brocket, red;Mazama americana
+Brolga crane;Grus rubicundus
+Brown and yellow marshbird;Pseudoleistes virescens
+Brown antechinus;Antechinus flavipes
+Brown brocket;Mazama gouazoubira
+Brown capuchin;Cebus apella
+Brown hyena;Hyaena brunnea
+Brown lemur;Lemur fulvus
+Brown pelican;Pelecanus occidentalis
+Brush-tailed bettong;Bettongia penicillata
+Brush-tailed phascogale;Phascogale tapoatafa
+Brush-tailed rat kangaroo;Bettongia penicillata
+Buffalo, african;Snycerus caffer
+Buffalo, american;Bison bison
+Buffalo, asian water;Bubalus arnee
+Buffalo, wild water;Bubalus arnee
+Bulbul, african red-eyed;Pycnonotus nigricans
+Bulbul, black-eyed;Pycnonotus barbatus
+Bulbul, black-fronted;Pycnonotus nigricans
+Bunting, crested;Melophus lathami
+Burchell's gonolek;Laniaurius atrococcineus
+Burmese black mountain tortoise;Manouria emys
+Burmese brown mountain tortoise;Manouria emys
+Burrowing owl;Speotyte cuniculata
+Bush dog;Speothos vanaticus
+Bushbaby, large-eared;Galago crassicaudataus
+Bushbuck;Tragelaphus scriptus
+Bushpig;Potamochoerus porcus
+Bustard, denham's;Neotis denhami
+Bustard, kori;Choriotis kori
+Bustard, stanley;Neotis denhami
+Butterfly, canadian tiger swallowtail;Papilio canadensis
+Butterfly, tropical buckeye;Junonia genoveua
+Buttermilk snake;Coluber constrictor

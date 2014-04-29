@@ -1,0 +1,20 @@
+Native cat;Dasyurus viverrinus
+Nelson ground squirrel;Ammospermophilus nelsoni
+Neotropic cormorant;Phalacrocorax brasilianus
+Netted rock dragon;Ctenophorus ornatus
+Nighthawk, common;Chordeiles minor
+Nile crocodile;Crocodylus niloticus
+Nilgai;Boselaphus tragocamelus
+Nine-banded armadillo;Dasypus novemcinctus
+North American beaver;Castor canadensis
+North American porcupine;Erethizon dorsatum
+North American red fox;Vulpes vulpes
+North American river otter;Lutra canadensis
+Northern elephant seal;Mirounga angustirostris
+Northern fur seal;Callorhinus ursinus
+Northern phalarope;Phalaropus lobatus
+Nubian bee-eater;Merops nubicus
+Numbat;Myrmecobius fasciatus
+Nutcracker, clark's;Nucifraga columbiana
+Nuthatch, red-breasted;Sitta canadensis
+Nyala;Tragelaphus angasi

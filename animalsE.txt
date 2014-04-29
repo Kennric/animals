@@ -1,0 +1,47 @@
+Eagle, african fish;Haliaetus vocifer
+Eagle, bald;Haliaeetus leucocephalus
+Eagle, bateleur;Terathopius ecaudatus
+Eagle, crowned;Spizaetus coronatus
+Eagle, golden;Aquila chrysaetos
+Eagle, long-crested hawk;Lophoaetus occipitalis
+Eagle, pallas's fish;Haliaeetus leucoryphus
+Eagle, tawny;Anitibyx armatus
+Eagle, white-bellied sea;Haliaetus leucogaster
+Eastern boa constrictor;Acrantophis madagascariensis
+Eastern box turtle;Terrapene carolina
+Eastern cottontail rabbit;Sylvilagus floridanus
+Eastern diamondback rattlesnake;Crotalus adamanteus
+Eastern dwarf mongoose;Helogale undulata
+Eastern fox squirrel;Sciurus niger
+Eastern grey kangaroo;Macropus giganteus
+Eastern indigo snake;Drymarchon corias couperi
+Eastern quoll;Dasyurus viverrinus
+Eastern white pelican;Pelecans onocratalus
+Echidna, short-beaked;Tachyglossus aculeatus
+Egret, cattle;Bubulcus ibis
+Egret, great;Casmerodius albus
+Egret, snowy;Egretta thula
+Egyptian cobra;Naja haje
+Egyptian goose;Alopochen aegyptiacus
+Egyptian viper;Naja haje
+Egyptian vulture;Neophron percnopterus
+Eland, common;Taurotagus oryx
+Elegant crested tinamou;Eudromia elegans
+Elephant, african;Loxodonta africana
+Elephant, asian;Elephas maximus bengalensis
+Elk, Wapiti;Cervus canadensis
+Emerald green tree boa;Boa caninus
+Emerald-spotted wood dove;Turtur chalcospilos
+Emu;Dromaeus novaehollandiae
+Eurasian badger;Meles meles
+Eurasian beaver;Castor fiber
+Eurasian hoopoe;Upupa epops
+Eurasian red squirrel;Sciurus vulgaris
+Euro wallaby;Macropus robustus
+European badger;Meles meles
+European beaver;Castor fiber
+European red squirrel;Sciurus vulgaris
+European shelduck;Tadorna tadorna
+European spoonbill;Platalea leucordia
+European stork;Ciconia ciconia
+European wild cat;Felis silvestris lybica

@@ -1,0 +1,56 @@
+Tailless tenrec;Tenrec ecaudatus
+Tamandua, southern;Tamandua tetradactyla
+Tammar wallaby;Macropus eugenii
+Tapir, brazilian;Tapirus terrestris
+Tarantula;Lasiodora parahybana
+Tarantula, salmon pink bird eater;Lasiodora parahybana
+Tasmanian devil;Sarcophilus harrisii
+Tawny eagle;Anitibyx armatus
+Tawny frogmouth;Podargus strigoides
+Tayra;Eira barbata
+Teal, hottentot;Anas punctata
+Tenrec, tailless;Tenrec ecaudatus
+Tern, arctic;Sterna paradisaea
+Tern, royal;Thalasseus maximus
+Tern, white-winged;Chlidonias leucopterus
+Tern, white-winged black;Chlidonias leucopterus
+Thirteen-lined squirrel;Spermophilus tridecemlineatus
+Thomson's gazelle;Gazella thompsonii
+Thrasher, curve-billed;Toxostoma curvirostre
+Three-banded plover;Charadrius tricollaris
+Tiger;Panthera tigris
+Tiger cat;Dasyurus maculatus
+Tiger snake;Notechis semmiannulatus
+Timber wolf;Canis lupus lycaon
+Tinamou, elegant crested;Eudromia elegans
+Toddy cat;Paradoxurus hermaphroditus
+Tokay gecko;Gekko gecko
+Topi;Damaliscus lunatus
+Tortoise, asian foreset;Manouria emys
+Tortoise, burmese black mountain;Manouria emys
+Tortoise, burmese brown mountain;Manouria emys
+Tortoise, desert;Gopherus agassizii
+Tortoise, galapagos;Geochelone elephantopus
+Tortoise, indian star;Geochelone elegans
+Tortoise, radiated;Geochelone radiata
+Toucan, red-billed;Ramphastos tucanus
+Toucan, white-throated;Ramphastos tucanus
+Tree porcupine;Coendou prehensilis
+Tropical buckeye butterfly;Junonia genoveua
+Trotter, lily;Actophilornis africanus
+Trumpeter swan;Cygnus buccinator
+Trumpeter, dark-winged;Psophia viridis
+Trumpeter, green-winged;Psophia viridis
+Tsessebe;Damaliscus lunatus
+Turaco, violet-crested;Tauraco porphyrelophus
+Turkey vulture;Cathartes aura
+Turkey, australian brush;Alectura lathami
+Turkey, common;Meleagris gallopavo
+Turkey, wild;Meleagris gallopavo
+Turtle, eastern box;Terrapene carolina
+Turtle, long-necked;Chelodina longicollis
+Turtle, snake-necked;Chelodina longicollis
+Two-banded monitor;Varanus salvator
+Two-toed sloth;Choloepus hoffmani
+Two-toed tree sloth;Choloepus hoffmani
+Tyrant flycatcher;Myiarchus tuberculifer
